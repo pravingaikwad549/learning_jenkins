@@ -1,5 +1,5 @@
 def appy():
-    name = input("what is ur name?")
+    name = "what is ur name?"
     print("your name is: ", name)
 def main():
     appy()
