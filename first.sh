@@ -1,3 +1,3 @@
 ls
 echo "runing .sh file"
-echo docker --version
+docker --version
